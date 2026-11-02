@@ -1,0 +1,1 @@
+(function(){"use strict";const e=document.getElementById("offline-status");document.getElementById("offline-retry").addEventListener("click",()=>location.reload()),window.addEventListener("online",()=>{e.textContent="A conex\xE3o voltou. Toque em Tentar novamente para continuar de onde parou."})})();
