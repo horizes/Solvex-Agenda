@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><defs xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="fold-top-left" gradientUnits="userSpaceOnUse" x1="43" y1="5" x2="6" y2="44"><stop stop-color="#438BFF" /><stop offset="1" stop-color="#2B6CE5" /></linearGradient>
+    <linearGradient id="fold-top-right" gradientUnits="userSpaceOnUse" x1="43" y1="5" x2="80" y2="46"><stop stop-color="#3D85FA" /><stop offset="1" stop-color="#2D73E9" /></linearGradient>
+    <linearGradient id="fold-bottom-left" gradientUnits="userSpaceOnUse" x1="6" y1="66" x2="43" y2="107"><stop stop-color="#3D84FB" /><stop offset="1" stop-color="#2A68DE" /></linearGradient>
+    <linearGradient id="fold-bottom-right" gradientUnits="userSpaceOnUse" x1="80" y1="68" x2="43" y2="107"><stop stop-color="#3A81F7" /><stop offset="1" stop-color="#2C71E8" /></linearGradient>
+    <linearGradient id="fold-ribbon" gradientUnits="userSpaceOnUse" x1="13" y1="40" x2="74" y2="75"><stop stop-color="#3D87FF" /><stop offset=".55" stop-color="#347CF2" /><stop offset="1" stop-color="#2C70E5" /></linearGradient>
+    <linearGradient id="fold-left-shadow" gradientUnits="userSpaceOnUse" x1="6" y1="27" x2="22" y2="40"><stop stop-color="#2468DC" /><stop offset=".7" stop-color="#1C59CB" /><stop offset="1" stop-color="#235FD0" /></linearGradient>
+    <linearGradient id="fold-right-shadow" gradientUnits="userSpaceOnUse" x1="64" y1="76" x2="80" y2="85"><stop stop-color="#1C58CD" /><stop offset="1" stop-color="#2B6FE3" /></linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="#0F172A"/><g transform="translate(20.44 6.98) scale(.92)"><polygon xmlns="http://www.w3.org/2000/svg" points="6,26 43,5 43,25 23,36 6,44" fill="url(#fold-top-left)" />
+  <polygon xmlns="http://www.w3.org/2000/svg" points="43,5 80,26 80,46 43,25" fill="url(#fold-top-right)" />
+  <polygon xmlns="http://www.w3.org/2000/svg" points="6,66 43,87 43,107 6,86" fill="url(#fold-bottom-left)" />
+  <polygon xmlns="http://www.w3.org/2000/svg" points="43,87 63,76 80,68 80,86 43,107" fill="url(#fold-bottom-right)" />
+  <polygon xmlns="http://www.w3.org/2000/svg" points="6,44 23,36 80,68 63,76" fill="url(#fold-ribbon)" />
+  <polygon xmlns="http://www.w3.org/2000/svg" points="6,26 23,36 6,44" fill="url(#fold-left-shadow)" />
+  <polygon xmlns="http://www.w3.org/2000/svg" points="63,76 80,68 80,86" fill="url(#fold-right-shadow)" />
+  <polyline xmlns="http://www.w3.org/2000/svg" points="6,26 23,36" fill="none" stroke="#124CB9" stroke-opacity=".2" stroke-width=".4" />
+  <polyline xmlns="http://www.w3.org/2000/svg" points="63,76 80,86" fill="none" stroke="#124CB9" stroke-opacity=".2" stroke-width=".4" />
+</g></svg>

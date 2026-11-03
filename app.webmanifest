@@ -10,12 +10,39 @@
   "background_color": "#0F172A",
   "theme_color": "#0F172A",
   "icons": [
-    {"src": "app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "app-icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {
+      "src": "app-icon-192-cb907375e206.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-icon-512-5c59a13ff8d2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-icon-maskable-512-f6f02f4fe872.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
-    {"name": "Agendar reunião", "url": "agenda.html", "icons": [{"src": "app-icon-192.png", "sizes": "192x192"}]},
-    {"name": "Guia da equipe", "url": "manual.html"}
+    {
+      "name": "Agendar reunião",
+      "url": "agenda.html",
+      "icons": [
+        {
+          "src": "app-icon-192-cb907375e206.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Guia da equipe",
+      "url": "manual.html"
+    }
   ]
 }
