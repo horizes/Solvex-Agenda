@@ -5,6 +5,6 @@
     <radialGradient id="paper-right-overlap" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(12.5 -5.88 1.7 3.6 71.5 72)"><stop stop-color="#0E439C" stop-opacity=".38"/><stop offset=".5" stop-color="#0E439C" stop-opacity=".19"/><stop offset="1" stop-color="#0E439C" stop-opacity="0"/></radialGradient>
   </defs>
   <polygon points="43,5 80,26 80,46 43,25 23,36 80,68 80,86 43,107 6,86 6,66 43,87 63,76 6,44 6,26" fill="url(#paper-blue)"/>
-  <polygon points="6,26 43,5 80,26 80,46 43,25 23,36 6,44" fill="url(#paper-left-overlap)"/>
-  <polygon points="6,66 43,87 63,76 80,68 80,86 43,107 6,86" fill="url(#paper-right-overlap)"/>
+  <polygon points="6,44 23,36 80,68 63,76" fill="url(#paper-left-overlap)"/>
+  <polygon points="6,44 23,36 80,68 63,76" fill="url(#paper-right-overlap)"/>
 </svg>

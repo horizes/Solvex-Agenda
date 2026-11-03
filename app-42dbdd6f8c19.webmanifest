@@ -11,19 +11,19 @@
   "theme_color": "#0F172A",
   "icons": [
     {
-      "src": "app-icon-192-7b17eecfaef3.png",
+      "src": "app-icon-192-5117d683e162.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "app-icon-512-c83f8c634256.png",
+      "src": "app-icon-512-a097a575332b.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "app-icon-maskable-512-6bf9a08c9836.png",
+      "src": "app-icon-maskable-512-90e9dead90e3.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -35,7 +35,7 @@
       "url": "agenda.html",
       "icons": [
         {
-          "src": "app-icon-192-7b17eecfaef3.png",
+          "src": "app-icon-192-5117d683e162.png",
           "sizes": "192x192"
         }
       ]
